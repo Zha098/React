@@ -10,7 +10,7 @@ export default function Header() {
                 <div className="col-md-3 mb-2 mb-md-0">
                     <a href="/" className="d-inline-flex align-items-center text-decoration-none">
                         <img src="/images/logo booksales.png" alt="Logo Booksales" width="50" className="me-2" />
-                        <span className="fs-4 fw-bold text-dark">Fira's Bookstore</span>
+                        <span className="fs-4 fw-bold text-dark">BookStore</span>
                     </a>
                 </div>
 

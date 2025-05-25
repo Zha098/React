@@ -29,7 +29,7 @@ export default function ProductList(){
                                 <button type="button" className="btn btn-sm btn-primary btn-outline-light">Beli</button>
                                 <button type="button" className="btn btn-sm btn-danger btn-outline-light">Favorit</button>
                             </div> 
-                            <small className="text-body-secondary">Rp. 169.000</small>
+                            <small className="text-body-secondary">Rp. 19.000</small>
                             </div>
                         </div>
                         </div>
@@ -45,7 +45,7 @@ export default function ProductList(){
                                 <button type="button" className="btn btn-sm btn-primary btn-outline-light">Beli</button>
                                 <button type="button" className="btn btn-sm btn-danger btn-outline-light">Favorit</button>
                             </div> 
-                            <small className="text-body-secondary">Rp. 108.000</small>
+                            <small className="text-body-secondary">Rp. 18.000</small>
                             </div>
                         </div>
                         </div>
@@ -61,7 +61,7 @@ export default function ProductList(){
                                 <button type="button" className="btn btn-sm btn-primary btn-outline-light">Beli</button>
                                 <button type="button" className="btn btn-sm btn-danger btn-outline-light">Favorit</button>
                             </div> 
-                            <small className="text-body-secondary">Rp. 65.000</small>
+                            <small className="text-body-secondary">Rp. 15.000</small>
                             </div>
                         </div>
                         </div>
@@ -71,14 +71,14 @@ export default function ProductList(){
                         <div className="card shadow-sm">
                         <img className="bd-placeholder-img card-img-top" width="100%" height="225" src="/images/filosofi-teras.jpg" preserveAspectRatio="xMidYMid slice"/>
                         <div className="card-body">
-                            <b className="card-text">Filosofi Teras (Henry Manampiring)</b>
+                            <b className="card-text">mariposa (harry)</b>
                             <p>Cara praktis mengatasi kecemasan dan overthinking ala filsuf kuno</p>
                             <div className="d-flex justify-content-between align-items-center">
                             <div className="btn-group">
                                 <button type="button" className="btn btn-sm btn-primary btn-outline-light">Beli</button>
                                 <button type="button" className="btn btn-sm btn-danger btn-outline-light">Favorit</button>
                             </div> 
-                            <small className="text-body-secondary">Rp. 110.000</small>
+                            <small className="text-body-secondary">Rp. 10.000</small>
                             </div>
                         </div>
                         </div>
@@ -87,30 +87,29 @@ export default function ProductList(){
                         <div className="card shadow-sm">
                         <img className="bd-placeholder-img card-img-top" width="100%" height="225" src="/images/Hidden-Potential-1.jpg" preserveAspectRatio="xMidYMid slice"/>
                         <div className="card-body">
-                            <b className="card-text">Hidden Potential (Adam Grant)</b>
-                            <p>Strategi berbasis riset untuk mengembangkan bakat yang belum terasah</p>
+                            <b className="card-text">Grid (Jennie)</b>
+                            <p>Sebuah misteri diperusahaan</p>
                             <div className="d-flex justify-content-between align-items-center">
                             <div className="btn-group">
                                 <button type="button" className="btn btn-sm btn-primary btn-outline-light">Beli</button>
                                 <button type="button" className="btn btn-sm btn-danger btn-outline-light">Favorit</button>
                             </div> 
-                            <small className="text-body-secondary">Rp. 119.500</small>
+                            <small className="text-body-secondary">Rp. 19.500</small>
                             </div>
                         </div>
                         </div>
                     </div>
                     <div className="col">
                         <div className="card shadow-sm">
-                        <img className="bd-placeholder-img card-img-top" width="100%" height="225" src="/images/Home-Sweet-Loan.jpg" preserveAspectRatio="xMidYMid slice"/>
                         <div className="card-body">
-                            <b className="card-text">Home Sweet Loan (Almira Bastari)</b>
-                            <p>Kisah relatable tentang impian, cinta, dan tantangan finansial milenial</p>
+                            <b className="card-text">Fighting (Robert)</b>
+                            <p>Kisah petarung miskin mendadak kaya</p>
                             <div className="d-flex justify-content-between align-items-center">
                             <div className="btn-group">
                                 <button type="button" className="btn btn-sm btn-primary btn-outline-light">Beli</button>
                                 <button type="button" className="btn btn-sm btn-danger btn-outline-light">Favorit</button>
                             </div> 
-                            <small className="text-body-secondary">Rp. 95.000</small>
+                            <small className="text-body-secondary">Rp. 12.000</small>
                             </div>
                         </div>
                         </div>
@@ -118,48 +117,45 @@ export default function ProductList(){
 
                     <div className="col">
                         <div className="card shadow-sm">
-                        <img className="bd-placeholder-img card-img-top" width="100%" height="225" src="/images/negeri5menara.jpg" preserveAspectRatio="xMidYMid slice"/>
                         <div className="card-body">
-                            <b className="card-text">Negeri 5 Menara (A. Fuadi)</b>
-                            <p>Novel inspiratif tentang mimpi, persahabatan, dan perjuangan enam santri dalam meraih cita-cita besar</p>
+                            <b className="card-text">The things (sparatala)</b>
+                            <p>Menceritakan monster didalam tubuh</p>
                             <div className="d-flex justify-content-between align-items-center">
                             <div className="btn-group">
                                 <button type="button" className="btn btn-sm btn-primary btn-outline-light">Beli</button>
                                 <button type="button" className="btn btn-sm btn-danger btn-outline-light">Favorit</button>
                             </div> 
-                            <small className="text-body-secondary">Rp. 65.000</small>
+                            <small className="text-body-secondary">Rp. 15.000</small>
                             </div>
                         </div>
                         </div>
                     </div>
                     <div className="col">
                         <div className="card shadow-sm">
-                        <img className="bd-placeholder-img card-img-top" width="100%" height="225" src="/images/poor-dad.jpg" preserveAspectRatio="xMidYMid slice"/>
                         <div className="card-body">
-                            <b className="card-text">Rich Dad Poor Dad for Teens (Robert T. Kiyosaki)</b>
-                            <p>Panduan keuangan remaja untuk memahami uang, investasi, dan pola pikir sukses sejak dini</p>
+                            <b className="card-text">When life gives you tangerines (gwansik aesun)</b>
+                            <p>Menceritakan perjalanan hidup dan penuh motivasi</p>
                             <div className="d-flex justify-content-between align-items-center">
                             <div className="btn-group">
                                 <button type="button" className="btn btn-sm btn-primary btn-outline-light">Beli</button>
                                 <button type="button" className="btn btn-sm btn-danger btn-outline-light">Favorit</button>
                             </div> 
-                            <small className="text-body-secondary">Rp. 57.800</small>
+                            <small className="text-body-secondary">Rp. 17.800</small>
                             </div>
                         </div>
                         </div>
                     </div>
                     <div className="col">
                         <div className="card shadow-sm">
-                        <img className="bd-placeholder-img card-img-top" width="100%" height="225" src="/images/sapiens-riwayat-singkat-umat-manusia.jpeg" preserveAspectRatio="xMidYMid slice"/>
                         <div className="card-body">
-                            <b className="card-text">Sapiens (Yuval Noah Harari)</b>
-                            <p>Penelusuran sejarah umat manusia dari zaman purba hingga modern dan mengungkap evolusi budaya</p>
+                            <b className="card-text">Inuyashiki (Karakuri Circus)</b>
+                            <p>Sebuah robot berwajah manusia</p>
                             <div className="d-flex justify-content-between align-items-center">
                             <div className="btn-group">
                                 <button type="button" className="btn btn-sm btn-primary btn-outline-light">Beli</button>
                                 <button type="button" className="btn btn-sm btn-danger btn-outline-light">Favorit</button>
                             </div> 
-                            <small className="text-body-secondary">Rp. 93.750</small>
+                            <small className="text-body-secondary">Rp. 13.750</small>
                             </div>
                         </div>
                         </div>

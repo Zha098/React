@@ -42,7 +42,7 @@ export default function Footer() {
                                 <img src="/images/logo booksales.png" alt="Logo Booksales" width="40" height="42" className="me-2" />
                             </a>
                             <span className="text-body-secondary">
-                                &copy; Syafira Putri Kamila - 2025, Universitas Trunojoyo Madura
+                                &copy; <AzhariArifi></AzhariArifi>- 2025, Universitas Trunojoyo Madura
                             </span>
                         </div>
 
